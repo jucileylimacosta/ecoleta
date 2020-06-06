@@ -1,5 +1,6 @@
 <div class="Box-body p-5">
         <article class="markdown-body entry-content container-lg" itemprop="text"><div align="center">
+<a target="_blank" rel="noopener noreferrer" href="/.github/ecoleta.png"><img alt="Nlw" title="#nlw" width="300px" src="/.github/ecoleta.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="/.github/logo.png"><img alt="Logo" title="#logo" width="300px" src="/.github/logo.png" style="max-width:100%;"></a>
 <br>
 <br>
